@@ -1,0 +1,10 @@
+Transit Timing Variations for WASP-47d (NEPTUNE-LIKE)
+Note: Orbital period / other parameters for this planet are reported in Table 1 of https://arxiv.org/abs/1508.02411
+————————————————————————————————
+Label	Units	Comments
+————————————————————————————————
+time(days)	days	the observed time of center transit
+ttv(min)	minutes	the derived ttv, normalized so first event is the zero-point
+error(min)	minutes	the error on the center time of transit (and on the ttv)
+————————————————————————————————
+time(days)	ttv(min)	error(min)				2155.31	0	2.16				2164.341213	-0.16	2.129936789				2173.366711	-8.228571429	2.365714286				2182.392209	-16.45714286	2.571428571				2191.426795	-11.6	5.45221112				2200.466063	-0.064341213	2.16				2209.491561	-4.228571429	2.365714286				
